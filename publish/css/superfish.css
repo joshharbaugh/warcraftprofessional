@@ -69,7 +69,7 @@ ul.sf-menu li li li.sfHover ul {
 	background:		url('../img/arrows-ffffff.png') no-repeat -10px -100px; /* 8-bit indexed alpha png. IE6 gets solid image only */
 }
 a > .sf-sub-indicator {  /* give all except IE6 the correct values */
-	top:			0;
+	top:			.8em;
 	background-position: 0 -100px; /* use translucent arrow for modern browsers*/
 }
 /* apply hovers to modern browsers */
